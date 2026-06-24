@@ -3,11 +3,7 @@
 A simple and responsive Weather App built using **HTML, CSS, and JavaScript**.  
 This app allows users to search for any city and view current weather details along with a 5-day forecast.
 
-## Live Demo
-
-```text
- https://deshrajvermay9517-png.github.io/weather-app/
-```
+## Live Demo: https://deshrajvermay9517-png.github.io/weather-app/
 
 ## Features
 
