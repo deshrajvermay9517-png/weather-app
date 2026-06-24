@@ -6,7 +6,7 @@ This app allows users to search for any city and view current weather details al
 ## Live Demo
 
 ```text
-Add your live project link here
+ https://deshrajvermay9517-png.github.io/weather-app/
 ```
 
 ## Features
